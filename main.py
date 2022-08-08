@@ -1,3 +1,5 @@
+#Franklin.J.B.B.Vieira
+
 txt = open("text.txt")
 
 vet = []
